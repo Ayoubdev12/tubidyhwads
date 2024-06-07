@@ -1,7 +1,7 @@
 {
   "ads": {
     "ShowAds": true,
-    "ShowLoadingAds": true,
+    "ShowLoadingAds": false,
     "showDownloadDialog": true,
     "ClickCount": 1,
     "huawei_inter": "testb4znbuh3n2",
