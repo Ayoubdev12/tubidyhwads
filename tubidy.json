@@ -2,7 +2,7 @@
   "ads": {
     "ShowAds": true,
     "ShowLoadingAds": false,
-    "showDownloadDialog": true,
+    "showDownloadDialog": false,
     "ClickCount": 1,
     "huawei_inter": "testb4znbuh3n2",
     "huawei_banner": "testw6vs28auh3",
