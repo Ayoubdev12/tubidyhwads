@@ -1,7 +1,7 @@
 {
   "ads": {
     "ShowAds": true,
-    "ShowLoadingAds": false,
+    "ShowLoadingAds": true,
     "showDownloadDialog": true,
     "ClickCount": 1,
     "huawei_inter": "testb4znbuh3n2",
@@ -30,3 +30,5 @@
       "username": "WYZWMu5xAdgydnEN",
       "password": "VyufwH4DVHkGYhbBpOWvKU2lXIdesLz7"
     }
+  ]
+}
